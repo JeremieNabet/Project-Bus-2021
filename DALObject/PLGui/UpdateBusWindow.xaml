@@ -1,0 +1,39 @@
+﻿<Window x:Class="PLGui.UpdateBusWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLGui"
+        mc:Ignorable="d"
+        Title="UpdateBusWindow" Height="321.078" Width="363.636">
+    <Grid Margin="0,0,34.6,10.8">
+        <Grid x:Name="grid1"  HorizontalAlignment="Left" Margin="67,33,0,0" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <ComboBox x:Name="busStatusComboBox" Grid.Column="1"  HorizontalAlignment="Left" Height="Auto"  Margin="1.4,15.2,0,9.8" Grid.Row="3" VerticalAlignment="Center" Width="120">
+
+            </ComboBox>
+            <Label Content="From Date:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="1" VerticalAlignment="Center"/>
+            <DatePicker x:Name="fromDateDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="1" SelectedDate="{Binding FromDate, Mode=TwoWay}" VerticalAlignment="Center" DisplayDateStart="2021-02-24" DisplayDateEnd="2021-02-24"/>
+            <Label Content="Fuel Remain:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+            <TextBox x:Name="fuelRemainTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="2" Text="{Binding FuelRemain, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="3" VerticalAlignment="Center">
+                <Label Content="Bus Status:" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Center"/>
+            </Label>
+            <ComboBox x:Name="busLicenseComboBox"  HorizontalAlignment="Left" Height="Auto" VerticalAlignment="Center" Width="120" Margin="0.4,0,0,0.4" Grid.Column="1" SelectionChanged="busLicenseComboBox_SelectionChanged"/>
+            <Label Content="Total Trip:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="4" VerticalAlignment="Center"/>
+            <TextBox x:Name="totalTripTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="4" Text="{Binding TotalTrip, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="License Number" VerticalAlignment="Top" Foreground="#192C4A"/>
+        </Grid>
+        <Button Background="#192C4A" Name="AddButton" Content="Update" HorizontalAlignment="Left" Margin="99,220,0,0" VerticalAlignment="Top" Width="155" Height="30"  Foreground="White" Click="AddButton_Click"/>
+    </Grid>
+</Window>

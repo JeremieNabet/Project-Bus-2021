@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfTrip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Trip>
+    <id>120</id>
+    <userName>Salut</userName>
+    <lineId>12012</lineId>
+    <inStation>1</inStation>
+    <inAt />
+    <outStation>0</outStation>
+    <outAt />
+  </Trip>
+</ArrayOfTrip>

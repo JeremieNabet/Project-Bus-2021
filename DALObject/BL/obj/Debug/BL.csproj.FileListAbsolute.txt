@@ -1,0 +1,63 @@
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\bin\Debug\BL.exe.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\bin\Debug\BL.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\bin\Debug\BL.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\bin\Debug\DALAPI.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\bin\Debug\DALAPI.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\bin\Debug\DALAPI.exe.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\BL.dll.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\BL.dll
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\BL.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\obj\Debug\BL.dll
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\BL\obj\Debug\BL.pdb
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\BL.dll.config
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\BL.dll
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\BL.pdb
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\BL\obj\Debug\BL.dll
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\BL\obj\Debug\BL.pdb
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\BL.dll.config
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\BL.dll
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\BL.pdb
+C:\Users\User\Documents\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Documents\PROJET_Halonot\DALObject\BL\obj\Debug\BL.dll
+C:\Users\User\Documents\PROJET_Halonot\DALObject\BL\obj\Debug\BL.pdb
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\BL.dll.config
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\BL.dll
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\BL.pdb
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.dll
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.pdb
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\BL.dll.config
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\BL.dll
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\BL.pdb
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.dll
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.pdb
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\BL.dll.config
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\BL.dll
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\BL.pdb
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.dll
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\BL\obj\Debug\BL.pdb
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\BL.dll.config
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\BL.dll
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\BL.pdb
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\BL\obj\Debug\BL.dll
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\BL\obj\Debug\BL.pdb

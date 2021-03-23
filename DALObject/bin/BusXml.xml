@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bus>
+  <bus>
+    <licensenumber>0</licensenumber>
+    <fuelremain>0</fuelremain>
+    <fromdate>0</fromdate>
+    <totaltrip>0</totaltrip>
+    <busstatus>trip</busstatus>
+  </bus>
+</Bus>

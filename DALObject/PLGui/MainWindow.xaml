@@ -1,0 +1,23 @@
+﻿<Window x:Class="PLGui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLGui"
+        mc:Ignorable="d"
+        Title="BusApp" Height="450" Width="900">
+    <Window.Background>
+        <ImageBrush ImageSource="/Pictures/home3.jpg" />
+    </Window.Background>
+    <ContentControl Name="mycontent" Height="450" Width="890">
+        <Grid  Margin="-152,242,469,35.6">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="159*"/>
+                <ColumnDefinition Width="634*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="Button_Nioul" Content="MANAGEMENT" HorizontalAlignment="Left" Margin="51.2,10,-11.8,0" VerticalAlignment="Top" Width="347" Height="56" RenderTransformOrigin="0.5,0.5" Click="Button_Nioul_Click" Background="white" FontWeight="Bold" FontStyle="Italic" FontSize="24" Cursor="Hand" Grid.Column="1"/>
+            <Button x:Name="Button_Traveler" Content="TRAVELER" HorizontalAlignment="Left" Margin="51.2,82,-11.8,0" VerticalAlignment="Top" Width="347" Height="53" FontWeight="Bold" Background="White" FontStyle="Italic" FontSize="24" Cursor="Hand" Grid.Column="1" Click="Button_Traveler_Click"/>
+
+        </Grid>
+    </ContentControl>
+</Window>

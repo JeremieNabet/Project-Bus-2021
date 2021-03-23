@@ -1,0 +1,693 @@
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\Nioul.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\App.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\bin\Debug\PLGui.exe.config
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\bin\Debug\PLGui.exe
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\bin\Debug\PLGui.pdb
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\MainWindow.baml
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\Nioul.baml
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\PLGui.exe
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\PLGui.pdb
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\Valid.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\Valid.baml
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\BUS.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\LINE.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\STATION.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\BUS.baml
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\LINE.baml
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\STATION.baml
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\testuc.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\testuc.baml
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\Linee.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\Menu.g.cs
+C:\Users\hadry\Downloads\PR01 (1)\PR01\PR01\PLGui\obj\Debug\Buss.g.cs
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Buss.g.cs
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Linee.g.cs
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Menu.g.cs
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Nioul.g.cs
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\App.g.cs
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\PLGui.exe
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\PLGui.pdb
+C:\Users\Acer Predator\Desktop\PR01\PLGui\bin\Debug\PLGui.exe.config
+C:\Users\Acer Predator\Desktop\PR01\PLGui\bin\Debug\PLGui.exe
+C:\Users\Acer Predator\Desktop\PR01\PLGui\bin\Debug\PLGui.pdb
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Buss.baml
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Linee.baml
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\MainWindow.baml
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Menu.baml
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Nioul.baml
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\Stationn.baml
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\BusDetail.baml
+C:\Users\Acer Predator\Desktop\PR01\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\Nioul.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\bin\Debug\PLGui.exe.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\bin\Debug\PLGui.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\bin\Debug\PLGui.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\bin\Debug\BL.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\bin\Debug\DALAPI.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\bin\Debug\BL.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\bin\Debug\BL.exe.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\bin\Debug\DALAPI.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\bin\Debug\DALAPI.exe.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\PLGui.exe.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\PLGui.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\PLGui.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Nioul.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Nioul.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CopyComplete
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.baml
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.g.cs
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\PLGui.exe.config
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\PLGui.exe
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\PLGui.pdb
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CopyComplete
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.pdb
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.baml
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.g.cs
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\PLGui.exe.config
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\PLGui.exe
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\PLGui.pdb
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CopyComplete
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.pdb
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.baml
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.g.cs
+C:\Users\User\Documents\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\bin\PLGui.exe.config
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\bin\PLGui.exe
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\bin\PLGui.pdb
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.baml
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CopyComplete
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.pdb
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\PLGui.exe.config
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\PLGui.exe
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\PLGui.pdb
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.baml
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CopyComplete
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.pdb
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\PLGui.exe.config
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\PLGui.exe
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\PLGui.pdb
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.baml
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CopyComplete
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.pdb
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\PLGui.exe.config
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\PLGui.exe
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\PLGui.pdb
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.baml
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CopyComplete
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.pdb
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\PLGui.exe.config
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\PLGui.exe
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\PLGui.pdb
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Accueil.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddLineWin.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddNewUser.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\addStation.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddStationToLine.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\AddWinBus.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\BusDetail.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Buss.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispBus.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\DispStation.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineDetailsxaml.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Linee.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\LineStationDetails.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Login.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\MainWindow.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Menu.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveBusWindow.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLine.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveLineStation.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\RemoveStationWin.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Simulation.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\SimuParameter.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationDetail.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Stationn.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\StationsLine.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateBusWindow.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\UpdateStationWindow.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\Updatetimedistance.baml
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.csproj.CopyComplete
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\PLGui\obj\Debug\PLGui.pdb
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\bin\PLGui.exe.config
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\bin\PLGui.exe
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\bin\PLGui.pdb
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Accueil.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\AddLineWin.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\AddNewUser.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\addStation.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\AddStationToLine.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\AddWinBus.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\BusDetail.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Buss.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\DispBus.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\DispStation.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\LineDetailsxaml.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Linee.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\LineStationDetails.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Login.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\MainWindow.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Menu.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\RemoveBusWindow.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\RemoveLine.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\RemoveLineStation.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\RemoveStationWin.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Simulation.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\SimuParameter.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\StationDetail.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Stationn.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\StationsLine.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\UpdateBusWindow.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\UpdateStationWindow.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Updatetimedistance.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\App.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.cache
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui_MarkupCompile.lref
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Accueil.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\AddLineWin.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\AddNewUser.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\addStation.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\AddStationToLine.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\AddWinBus.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\BusDetail.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Buss.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\DispBus.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\DispStation.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\LineDetailsxaml.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Linee.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\LineStationDetails.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Login.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\MainWindow.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Menu.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\RemoveBusWindow.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\RemoveLine.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\RemoveLineStation.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\RemoveStationWin.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Simulation.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\SimuParameter.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\StationDetail.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Stationn.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\StationsLine.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\UpdateBusWindow.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\UpdateStationWindow.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\Updatetimedistance.baml
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui.g.resources
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui.Properties.Resources.resources
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui.csproj.CopyComplete
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui.exe
+C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Debug\PLGui.pdb

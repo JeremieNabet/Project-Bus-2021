@@ -1,0 +1,55 @@
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\bin\Debug\DataSource.exe.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\bin\Debug\DataSource.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\bin\Debug\DataSource.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\bin\Debug\DALAPI.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\bin\Debug\DALAPI.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\bin\Debug\DALAPI.exe.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\DataSource.dll.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\DataSource.dll
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\DataSource.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csprojAssemblyReference.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CopyComplete
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.dll
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.pdb
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\DataSource.dll.config
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\DataSource.dll
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\DataSource.pdb
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CopyComplete
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.dll
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.pdb
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\DataSource.dll.config
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\DataSource.dll
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\DataSource.pdb
+C:\Users\User\Documents\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csprojAssemblyReference.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CopyComplete
+C:\Users\User\Documents\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.dll
+C:\Users\User\Documents\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.pdb
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\DataSource.dll.config
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\DataSource.dll
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\DataSource.pdb
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CopyComplete
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.dll
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.pdb
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\DataSource.dll.config
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\DataSource.dll
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\DataSource.pdb
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CopyComplete
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.dll
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.pdb
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\DataSource.dll.config
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\DataSource.dll
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\DataSource.pdb
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CopyComplete
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.dll
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.pdb

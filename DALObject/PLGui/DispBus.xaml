@@ -1,0 +1,41 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLGui"
+        xmlns:BO="clr-namespace:BO;assembly=BL" xmlns:MaterialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="PLGui.DispBus"
+        mc:Ignorable="d"
+        Title="DispBus" Height="269.187" Width="432.279" >
+
+    <Grid Margin="-21,-14,97.4,50.8">
+        <MaterialDesign:PackIcon Foreground="#192C4A" Kind="Bus"  Height="193" Width="245" VerticalAlignment="Center" Margin="177,35,-72.8,-25.6"/>
+
+        <Grid x:Name="grid1" VerticalAlignment="Top" Margin="40,57,0,-14.6" HorizontalAlignment="Left" Width="178">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="39.723"/>
+                <ColumnDefinition Width="11.477"/>
+            </Grid.ColumnDefinitions>
+            <Label VerticalAlignment="Center" Grid.Row="0" Margin="3,3,0,3" HorizontalAlignment="Left" Grid.Column="0" Content="Bus Status:"/>
+            <TextBlock x:Name="busStatusTextBlock" VerticalAlignment="Center" Text="{Binding BusStatus}" Grid.Row="0" Margin="2.8,8,-38.6,8" HorizontalAlignment="Left" Grid.Column="1" Width="87" Grid.ColumnSpan="2"/>
+            <Label VerticalAlignment="Center" Grid.Row="1" Margin="3,3,0,3" HorizontalAlignment="Left" Grid.Column="0" Content="From Date:"/>
+            <TextBlock x:Name="fromDateTextBlock" VerticalAlignment="Center" Text="{Binding FromDate}" Grid.Row="1" Margin="2.8,8,-38.6,8" HorizontalAlignment="Left" Grid.Column="1" Width="87" Grid.ColumnSpan="2"/>
+            <Label VerticalAlignment="Center" Grid.Row="2" Margin="3,3,0,3" HorizontalAlignment="Left" Grid.Column="0" Content="Fuel Remain:"/>
+            <TextBlock x:Name="fuelRemainTextBlock" VerticalAlignment="Center" Text="{Binding FuelRemain}" Grid.Row="2" Margin="2.8,8,-39.6,8" HorizontalAlignment="Left" Grid.Column="1" Width="88" Grid.ColumnSpan="2"/>
+            <Label VerticalAlignment="Center" Grid.Row="3" Margin="3,3,0,3" HorizontalAlignment="Left" Grid.Column="0" Content="License Num:"/>
+            <TextBlock x:Name="licenseNumTextBlock" VerticalAlignment="Center" Text="{Binding LicenseNum}" Grid.Row="3" Margin="2.8,8,-38.6,8" HorizontalAlignment="Left" Grid.Column="1" Width="87" Grid.ColumnSpan="2"/>
+            <Label VerticalAlignment="Center" Grid.Row="4" Margin="3,3,0,3" HorizontalAlignment="Left" Grid.Column="0" Content="Total Trip:"/>
+            <TextBlock x:Name="totalTripTextBlock" VerticalAlignment="Center" Text="{Binding TotalTrip}" Grid.Row="4" Margin="2.8,8,-38.6,8" HorizontalAlignment="Left" Grid.Column="1" Width="87" Grid.ColumnSpan="2"/>
+            <Label Foreground="#192C4A" Content="Bus informations : " HorizontalAlignment="Left" Margin="3,-27,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="129"/>
+        </Grid>
+
+    </Grid>
+</Window>

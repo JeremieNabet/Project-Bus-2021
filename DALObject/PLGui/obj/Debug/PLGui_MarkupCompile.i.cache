@@ -1,0 +1,20 @@
+﻿PLGui
+
+
+winexe
+C#
+.cs
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\obj\Debug\
+PLGui
+none
+false
+DEBUG;TRACE
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\PLGui\App.xaml
+282099232877
+
+321447287642
+16-307186316
+Accueil.xaml;AddLineWin.xaml;AddNewUser.xaml;addStation.xaml;AddStationToLine.xaml;AddWinBus.xaml;BusDetail.xaml;Buss.xaml;DispBus.xaml;DispStation.xaml;LineDetailsxaml.xaml;Linee.xaml;LineStationDetails.xaml;Login.xaml;MainWindow.xaml;Menu.xaml;RemoveBusWindow.xaml;RemoveLine.xaml;RemoveLineStation.xaml;RemoveStationWin.xaml;Simulation.xaml;SimuParameter.xaml;StationDetail.xaml;Stationn.xaml;StationsLine.xaml;UpdateBusWindow.xaml;UpdateStationWindow.xaml;Updatetimedistance.xaml;
+
+True
+

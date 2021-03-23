@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="PLGui.Login"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PLGui" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+            Height="450" Width="890" >
+    <UserControl.Background>
+        <ImageBrush ImageSource="/Pictures/home3.jpg" />
+    </UserControl.Background>
+    <ContentControl x:Name="mycontent" Height="450" Width="890">
+        <Grid Background="White" Margin="23,47,473.6,52.6">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="0*"/>
+            </Grid.ColumnDefinitions>
+            <materialDesign:PackIcon Kind="Account"  HorizontalAlignment="Left" Margin="96,-9,0,0" VerticalAlignment="Top" Height="120" Width="171" Foreground="#192C4A"/>
+
+            <Button x:Name="login" Content="Login" Cursor="Hand" HorizontalAlignment="Left" Margin="42,274,0,0" VerticalAlignment="Top" Width="282" Height="41" Foreground="White" Background="#192C4A" FontFamily="Microsoft Sans Serif" FontSize="20" Click="login_Click" />
+            <Label HorizontalAlignment="Left" Margin="68,156,0,0" VerticalAlignment="Top" Height="10" Width="34"/>
+            <Label Content="Password" HorizontalAlignment="Left" Margin="42,184,0,0" VerticalAlignment="Top" Width="102" FontFamily="Microsoft Sans Serif" FontSize="16" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" Height="29"/>
+            <Label Content="Username&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="42,124,0,0" Width="120" Height="32" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" FontSize="16" FontFamily="Windows sans serif" RenderTransformOrigin="0.711,0.892"/>
+            <Label Content=" Welcome, please login " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="68,97,-22,0" Foreground="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" FontFamily="Microsoft Sans Serif" FontSize="20" Width="326" Height="32" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="identifier" HorizontalAlignment="Left" Height="28" Margin="42,151,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="282">
+                <TextBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFF3EAEA" Offset="0.002"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.Background>
+            </TextBox>
+            <PasswordBox x:Name="password" HorizontalAlignment="Left" Margin="40,213,0,0" VerticalAlignment="Top" Height="28" RenderTransformOrigin="0.5,0.5" Width="282">
+                <PasswordBox.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </PasswordBox.RenderTransform>
+                <PasswordBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFF3EAEA" Offset="0.002"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </PasswordBox.Background>
+            </PasswordBox>
+            <Button x:Name="signIn" Background="{x:Null}" Foreground="#192C4A" BorderBrush="{x:Null}" Cursor="Hand" Content="Sign in" HorizontalAlignment="Left" Margin="133,315,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click" Height="31" FontSize="18"/>
+            <Button x:Name="resetPassword" Cursor="Hand" Foreground="#192C4A" Content="Reset your password" HorizontalAlignment="Left" Margin="197,249,0,0" VerticalAlignment="Top" Width="140" RenderTransformOrigin="0.373,1.35" Background="{x:Null}" BorderBrush="{x:Null}" FontSize="14" Click="resetPassword_Click"/>
+        </Grid>
+
+    </ContentControl>
+</UserControl>

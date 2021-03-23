@@ -1,0 +1,8 @@
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\DALObject.dll.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\DALObject.dll
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\DALObject.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALObject\obj\Debug\DLObject.csprojAssemblyReference.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALObject\obj\Debug\DLObject.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALObject\obj\Debug\DLObject.csproj.CopyComplete
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALObject\obj\Debug\DALObject.dll
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALObject\obj\Debug\DALObject.pdb

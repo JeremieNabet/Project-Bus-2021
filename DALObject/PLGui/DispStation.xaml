@@ -1,0 +1,39 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLGui"
+        xmlns:BO="clr-namespace:BO;assembly=BL" xmlns:MaterialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="PLGui.DispStation"
+        mc:Ignorable="d"
+        Title="DispStation" Height="256.997" Width="423.138" >
+    <Grid Margin="33,10,18,22.6">
+        <MaterialDesign:PackIcon Foreground="#192C4A" Kind="BusStopCovered"  Height="161" Width="189" VerticalAlignment="Center" Margin="167,23,0,10.6"/>
+
+        <Grid x:Name="grid1" VerticalAlignment="Top" Margin="42,23,-180.6,-72.4" HorizontalAlignment="Left"  Height="187" Width="159">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Label VerticalAlignment="Center" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="code:"/>
+            <TextBlock x:Name="codeTextBlock" VerticalAlignment="Center" Text="{Binding code}" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="1" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="handicap:"/>
+            <TextBlock x:Name="handicapTextBlock" VerticalAlignment="Center" Text="{Binding handicap}" Grid.Row="1" Margin="3" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="2" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="latitude:"/>
+            <TextBlock x:Name="latitudeTextBlock" VerticalAlignment="Center" Text="{Binding latitude}" Grid.Row="2" Margin="3" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="3" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="longitude:"/>
+            <TextBlock x:Name="longitudeTextBlock" VerticalAlignment="Center" Text="{Binding longitude}" Grid.Row="3" Margin="3" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="4" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="name:"/>
+            <TextBlock x:Name="nameTextBlock" VerticalAlignment="Center" Text="{Binding name}" Grid.Row="4" Margin="3" HorizontalAlignment="Left" Grid.Column="1"/>
+        </Grid>
+        <Label Foreground="#192C4A" Content="Station Information : " HorizontalAlignment="Left" Margin="5,0,0,0" VerticalAlignment="Top" Height="26" Width="157"/>
+
+    </Grid>
+</Window>

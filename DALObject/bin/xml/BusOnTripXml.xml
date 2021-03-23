@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfBusOnTrip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BusOnTrip>
+    <id>121212</id>
+    <licenseNum>0</licenseNum>
+    <lineId>0</lineId>
+    <plannedTakeOff />
+    <actualTakeOff />
+    <prevStation>0</prevStation>
+    <prevStationAt />
+    <nextStationAt />
+  </BusOnTrip>
+</ArrayOfBusOnTrip>

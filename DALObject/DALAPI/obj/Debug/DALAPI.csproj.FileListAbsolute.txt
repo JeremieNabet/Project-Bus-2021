@@ -1,0 +1,54 @@
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csprojAssemblyReference.cache
+C:\Users\Acer Predator\Desktop\Project Halonot\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALAPI\bin\Debug\DALAPI.exe.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALAPI\bin\Debug\DALAPI.exe
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALAPI\bin\Debug\DALAPI.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\DALAPI.dll.config
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\DALAPI.dll
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\bin\DALAPI.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csproj.CoreCompileInputs.cache
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.dll
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.pdb
+C:\Users\helper\Documents\jerem\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\DALAPI.dll.config
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\DALAPI.dll
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\bin\DALAPI.pdb
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.dll
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.pdb
+C:\Users\jerem\Desktop\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csprojAssemblyReference.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.dll
+C:\Users\User\Documents\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.pdb
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\DALAPI.dll.config
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\DALAPI.dll
+C:\Users\User\Documents\PROJET_Halonot\DALObject\bin\DALAPI.pdb
+C:\Users\User\Documents\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\DALAPI.dll.config
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\DALAPI.dll
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\bin\DALAPI.pdb
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.dll
+C:\Users\jerem\Desktop\Nouveau dossier (3)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.pdb
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\DALAPI.dll.config
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\DALAPI.dll
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\DALAPI.pdb
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csprojAssemblyReference.cache
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csproj.CoreCompileInputs.cache
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.dll
+C:\Users\helper\Downloads\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.pdb
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\DALAPI.dll.config
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\DALAPI.dll
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\bin\DALAPI.pdb
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.dll
+C:\Users\jerem\Desktop\Apres passage Malki\PROJET_Halonot (2)\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.pdb
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\DALAPI.dll.config
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\DALAPI.dll
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\bin\DALAPI.pdb
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csprojAssemblyReference.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.dll
+C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DALAPI\obj\Debug\DALAPI.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Station>
+    <code>100</code>
+    <name>Har Hertzl</name>
+    <longitude>30</longitude>
+    <latitude>35</latitude>
+    <handicap>true</handicap>
+  </Station>
+  <Station>
+    <code>102</code>
+    <name>Kikar Denia</name>
+    <longitude>28</longitude>
+    <latitude>33</latitude>
+    <handicap>false</handicap>
+  </Station>
+  <Station>
+    <code>103</code>
+    <name>Ehalutz</name>
+    <longitude>27</longitude>
+    <latitude>32</latitude>
+    <handicap>true</handicap>
+  </Station>
+  <Station>
+    <code>104</code>
+    <name>Kiriat Moche</name>
+    <longitude>26</longitude>
+    <latitude>31</latitude>
+    <handicap>false</handicap>
+  </Station>
+  <Station>
+    <code>105</code>
+    <name>Tahana Merkazit</name>
+    <longitude>25</longitude>
+    <latitude>30</latitude>
+    <handicap>true</handicap>
+  </Station>
+  <Station>
+    <code>106</code>
+    <name>Hatourim</name>
+    <longitude>24</longitude>
+    <latitude>29</latitude>
+    <handicap>true</handicap>
+  </Station>
+  <Station>
+    <code>100000</code>
+    <name>Central Station Jerusalem</name>
+    <longitude>35</longitude>
+    <latitude>31</latitude>
+    <handicap>false</handicap>
+  </Station>
+  <Station>
+    <code>100010</code>
+    <name>Mamilla</name>
+    <longitude>35</longitude>
+    <latitude>31</latitude>
+    <handicap>false</handicap>
+  </Station>
+  <Station>
+    <code>100020</code>
+    <name>Yafo Center</name>
+    <longitude>35</longitude>
+    <latitude>31</latitude>
+    <handicap>false</handicap>
+  </Station>
+  <Station>
+    <code>100030</code>
+    <name>Kyriat Moshe</name>
+    <longitude>35</longitude>
+    <latitude>31</latitude>
+    <handicap>false</handicap>
+  </Station>
+  <Station>
+    <code>100040</code>
+    <name>Yefe Nof</name>
+    <longitude>35</longitude>
+    <latitude>31</latitude>
+    <handicap>false</handicap>
+  </Station>
+  <Station>
+    <code>100050</code>
+    <name>Mahane Yehouda</name>
+    <longitude>35</longitude>
+    <latitude>31</latitude>
+    <handicap>false</handicap>
+  </Station>
+  <Station>
+    <code>107</code>
+    <name>Avraham Stern</name>
+    <latitude>36</latitude>
+    <longitude>95</longitude>
+    <handicap>False</handicap>
+  </Station>
+  <Station>
+    <code>555</code>
+    <name>Tunis</name>
+    <latitude>35</latitude>
+    <longitude>65</longitude>
+    <handicap>False</handicap>
+  </Station>
+</ArrayOfStation>

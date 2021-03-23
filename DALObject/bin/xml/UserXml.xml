@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <userName>a</userName>
+    <password>a</password>
+    <admin>true</admin>
+    <email></email>
+  </User>
+  <User>
+    <userName>jeremie</userName>
+    <password>jeremie55</password>
+    <admin>true</admin>
+    <email>jeremie.nabett@gmail.com</email>
+  </User>
+  <User>
+    <userName>Hadriel</userName>
+    <password>Hadriel55</password>
+    <admin>true</admin>
+    <email>hadry_l@hotmail.fr</email>
+  </User>
+ 
+</ArrayOfUser>
