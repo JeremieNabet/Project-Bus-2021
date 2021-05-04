@@ -61,3 +61,11 @@ C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.Cor
 C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\BL\obj\Debug\BL.csproj.CopyComplete
 C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\BL\obj\Debug\BL.dll
 C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\BL\obj\Debug\BL.pdb
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\bin\BL.dll.config
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\bin\BL.dll
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\bin\BL.pdb
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\BL\obj\Debug\BL.dll
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\BL\obj\Debug\BL.pdb

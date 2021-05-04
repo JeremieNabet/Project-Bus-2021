@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\obj\Release\
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\PLGui\obj\Release\
 PLGui
 none
 false
 TRACE
-C:\Users\jerem\Desktop\Projet_C_Sharp\DALObject\PLGui\App.xaml
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\PLGui\App.xaml
 282099232877
 
 31479360581
-16468614762
+16352122498
 Accueil.xaml;AddLineWin.xaml;AddNewUser.xaml;addStation.xaml;AddStationToLine.xaml;AddWinBus.xaml;BusDetail.xaml;Buss.xaml;DispBus.xaml;DispStation.xaml;LineDetailsxaml.xaml;Linee.xaml;LineStationDetails.xaml;Login.xaml;MainWindow.xaml;Menu.xaml;RemoveBusWindow.xaml;RemoveLine.xaml;RemoveLineStation.xaml;RemoveStationWin.xaml;Simulation.xaml;SimuParameter.xaml;StationDetail.xaml;Stationn.xaml;StationsLine.xaml;UpdateBusWindow.xaml;UpdateStationWindow.xaml;Updatetimedistance.xaml;
 
 True

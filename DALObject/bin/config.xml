@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <config>
-  <dl>data</dl>
+  <!--Here we can swith enter the XML and the DataSource, just modify the <dl> tag -->
+  <dl>xml</dl>
+  <!--For the moment the project is based on the xml files written earlier-->
+  <!--<dl>data</dl>-->
   <dl-packages>
     <data>DalObject</data>
     <xml namespace="DataSourceXml" class="DalXml">DataSourceXml</xml>

@@ -53,3 +53,11 @@ C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataS
 C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.csproj.CopyComplete
 C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.dll
 C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSource\obj\Debug\DataSource.pdb
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\bin\DataSource.dll.config
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\bin\DataSource.dll
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\bin\DataSource.pdb
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSource\obj\Debug\DataSource.csprojAssemblyReference.cache
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSource\obj\Debug\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSource\obj\Debug\DataSource.csproj.CopyComplete
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSource\obj\Debug\DataSource.dll
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSource\obj\Debug\DataSource.pdb

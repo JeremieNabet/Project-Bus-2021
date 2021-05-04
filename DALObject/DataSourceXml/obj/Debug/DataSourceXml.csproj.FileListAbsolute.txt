@@ -55,3 +55,11 @@ C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSourceXml\obj\Debug\Da
 C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSourceXml\obj\Debug\DataSourceXml.csproj.CopyComplete
 C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSourceXml\obj\Debug\DataSourceXml.dll
 C:\Users\jerem\Desktop\Final\PROJET_Halonot\DALObject\DataSourceXml\obj\Debug\DataSourceXml.pdb
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\bin\DataSourceXml.dll.config
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\bin\DataSourceXml.dll
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\bin\DataSourceXml.pdb
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSourceXml\obj\Debug\DataSourceXml.csprojAssemblyReference.cache
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSourceXml\obj\Debug\DataSourceXml.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSourceXml\obj\Debug\DataSourceXml.csproj.CopyComplete
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSourceXml\obj\Debug\DataSourceXml.dll
+C:\Users\jerem\Source\Repos\Project_Bus_C_Sharp_2021\DALObject\DataSourceXml\obj\Debug\DataSourceXml.pdb

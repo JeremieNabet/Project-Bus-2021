@@ -11,7 +11,9 @@ using DO;
 
 namespace DataSourceXml
 {
-    
+    /*
+     * Here is written the xml files and their data destinations
+     * */
     internal class DalXml : IDal
     {
         #region singleton
